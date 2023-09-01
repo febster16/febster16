@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm [Febryan](https://febster16.vercel.app/)
 
+- 🔭 I’m a backend engineer
+- 📫 Reach me at [febryan.stefanus16@gmail.com](mailto:febryan.stefanus16@gmail.com)
 <!--
 **febster16/febster16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
